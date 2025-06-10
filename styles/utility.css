@@ -1,0 +1,59 @@
+.text-2xl {
+  font: var(--title-lg);
+}
+
+.text-xl {
+  font: var(--title-md);
+}
+
+.text-lg {
+  font: var(--title-sm);
+}
+
+.text-md {
+  font: var(--text-md);
+}
+
+.text-sm {
+  font: var(--text-sm);
+}
+
+.subtitle {
+  font: var(--subtitle);
+}
+
+.text-color-red {
+  color: var(--color-red);
+}
+
+.text-color-purple {
+  color: var(--color-purple);
+}
+
+.text-color-blue {
+  color: var(--color-blue);
+}
+
+.text-color-green {
+  color: var(--color-green);
+}
+
+.text-color-yellow {
+  color: var(--color-yellow);
+}
+
+.text-color-gray-400 {
+  color: var(--gray-400);
+}
+
+.text-color-gray-500 {
+  color: var(--gray-500);
+}
+
+.dark-background {
+  background-color: var(--gray-100);
+}
+
+.w-full {
+  width: 100%;
+}
